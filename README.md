@@ -1,10 +1,10 @@
 # JuegoMetaSpark_WonderJump
-  Proyecto Final Curso Meta Spark - CRT+IC<br>
-  Desarrollado por: José Leonardo Flores<br>
-  Arte y sonido: descargado de Internet<br>
+  Final Project for the Meta Spark Course - CRT+IC<br>
+  Developed by: José Leonardo Flores<br>
+  Art and sound: downloaded from the Internet<br>
 
-  - Lo puedes jugar en Instagram: https://www.instagram.com/ar/2150177758524542
-  - Nota: abre la boca para saltar
-  - 6 enemigos, cada uno con su animación
-  - En el estado de Game Over la cara del jugador se mostrará deformada (Face Distortion) y se aplica el efecto de Pitch al micrófono (se debe grabar una historia para ver el efecto).
-  - Toda la lógica se creó usando nodos (patches), no se usó código en scripts.
+  - You can play it on your mobile phone on: [Instagras](https://www.instagram.com/ar/2150177758524542)
+  - Note: Open your mouth to jump.
+  - 6 enemies, each with its own animation.
+  - In the Game Over state, the player's face will be shown distorted (Face Distortion), and a Pitch effect is applied to the microphone (a story must be recorded to see the effect).
+  - All the logic was created using nodes (patches), without any code in scripts.
